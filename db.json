@@ -1,0 +1,23 @@
+{
+    "messages": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "message": "What a beautiful day!",
+        "location": [37.7749, -122.4194]
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "message": "Loving the view from here.",
+        "location": [34.0522, -118.2437]
+      },
+      {
+        "id": 3,
+        "name": "Charlie",
+        "message": "This place is amazing!",
+        "location": [51.5074, -0.1278]
+      }
+    ]
+  }
+  
