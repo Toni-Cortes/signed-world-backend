@@ -1,23 +1,101 @@
 {
-    "messages": [
-      {
-        "id": 1,
-        "name": "Alice",
-        "message": "What a beautiful day!",
-        "location": [37.7749, -122.4194]
+  "messages": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "message": "What a beautiful day!",
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
       },
-      {
-        "id": 2,
-        "name": "Bob",
-        "message": "Loving the view from here.",
-        "location": [34.0522, -118.2437]
+      "currentDate": "17/8/2024, 11:44:30"
+    },
+    
+    {
+      "id": 2,
+      "name": "Bob",
+      "message": "Loving the view from here.",
+      "location": {
+        "lat": 34.0522,
+        "lng": -118.2437
       },
-      {
-        "id": 3,
-        "name": "Charlie",
-        "message": "This place is amazing!",
-        "location": [51.5074, -0.1278]
-      }
-    ]
-  }
-  
+      "currentDate": "17/8/2024, 11:44:30"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "message": "This place is amazing!",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "currentDate": "17/8/2024, 11:44:30"
+    },
+    {
+      "name": "Toni",
+      "message": "I'm peeing on the Everest.",
+      "token": "Toni",
+      "location": {
+        "lat": 36.7513374,
+        "lng": -3.8757218
+      },
+      "currentDate": "22/8/2024, 19:49:15",
+      "id": 4
+    },
+    {
+      "name": "Nathan",
+      "message": "Hello World",
+      "token": "6a23e1be-707c-4929-9751-e4315f63fe18",
+      "location": {
+        "lat": 36.7513374,
+        "lng": -3.8757218
+      },
+      "currentDate": "17/8/2024, 11:44:30",
+      "id": 7
+    },
+    {
+      "name": "Toni",
+      "message": "I just found a whale, it said 'whale hello there'.",
+      "token": "Toni",
+      "location": {
+        "lat": 37.1654656,
+        "lng": -3.6667392
+      },
+      "currentDate": "17/8/2024, 11:44:30",
+      "id": 8
+    },
+    {
+      "name": "Toni",
+      "message": "Hid 10 euros on this spot for whoever arrives first ;)",
+      "token": "Toni",
+      "location": {
+        "lat": 37.1654656,
+        "lng": -3.6667392
+      },
+      "currentDate": "17/8/2024, 12:01:34",
+      "id": 9
+    },
+    {
+      "name": "Toni",
+      "message": "Even the lowest of whispers can be heard if one is speaking truth. ",
+      "token": "Toni",
+      "location": {
+        "lat": 37.1654656,
+        "lng": -3.6667392
+      },
+      "currentDate": "17/8/2024, 12:01:34",
+      "id": 10
+    },
+    {
+      "name": "Toni",
+      "message": "Just found a big ass spider under my bed someone call 911.",
+      "token": "Toni",
+      "location": {
+        "lat": 37.1654656,
+        "lng": -3.6667392
+      },
+      "currentDate": "17/8/2024, 12:01:34",
+      "id": 11
+    }
+  ]
+}
