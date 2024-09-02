@@ -10,7 +10,6 @@
       },
       "currentDate": "17/8/2024, 11:44:30"
     },
-    
     {
       "id": 2,
       "name": "Bob",
@@ -96,6 +95,39 @@
       },
       "currentDate": "17/8/2024, 12:01:34",
       "id": 11
+    },
+    {
+      "name": "Toni",
+      "message": "I think I just teleported.",
+      "token": "Toni",
+      "location": {
+        "lat": 37.14397,
+        "lng": -3.6181683
+      },
+      "currentDate": "27/8/2024, 20:49:57",
+      "id": 12
+    },
+    {
+      "name": "Toni",
+      "message": "Oh no I did it again.",
+      "token": "Toni",
+      "location": {
+        "lat": 37.1439683,
+        "lng": -3.6181623
+      },
+      "currentDate": "27/8/2024, 20:52:20",
+      "id": 13
+    },
+    {
+      "name": "Dory",
+      "message": "Wait, where am I?",
+      "token": "DoryLost",
+      "location": {
+        "lat": 49.815273,
+        "lng": 6.129583
+      },
+      "currentDate": "29/8/2024, 18:14:47",
+      "id": 14
     }
   ]
 }
